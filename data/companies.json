@@ -1,0 +1,42 @@
+[
+  {
+    "name": "amazon",
+    "path": "/companies/the qwerty ink_jpg_white.jpg",
+    "id": 1
+  },
+  {
+    "name": "atlassian",
+    "path": "/companies/ACBs_jpg with black tagline.jpg",
+    "id": 2
+  },
+  {
+    "name": "google",
+    "path": "/companies/Circzles_jpg_white.jpg",
+    "id": 3
+  },
+  {
+    "name": "ibm",
+    "path": "/companies/theqwertystore_png_white.png",
+    "id": 4
+  },
+  {
+    "name": "meta",
+    "path": "/companies/hazels puzzle_jpg_white.jpg",
+    "id": 5
+  },
+  {
+    "name": "microsoft",
+    "path": "/companies/Circzles_jpg_white.jpg",
+    "id": 6
+  },
+  {
+    "name": "netflix",
+    "path": "/companies/theqwertystore_png_white.png",
+    "id": 7
+  },
+  {
+    "name": "uber",
+    "path": "/companies/ACBs_jpg with black tagline.jpg",
+    "id": 8
+  }
+]
